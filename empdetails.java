@@ -1,5 +1,5 @@
 package testExeercise;
-
+/*Q1) Write a class with FirstName, LastName & age field. Print Firstname, LastName & age using static block, static method & static variable respectively.*/
 public class empdetails{
 	
 	    	static {
