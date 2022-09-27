@@ -6,7 +6,7 @@ The class should:
     class should also have setter methods to update a particular field
     Override its toString method to display a meaningful message using all these fields.*/
 
-public class Employeequs5 {
+public class Employee {
 		
 
     private String firstName;
