@@ -1,0 +1,21 @@
+package testExeercise;
+
+public class Assesment_5 {
+	
+	public static void main(String args[]){
+
+
+        Employee emp1 = new Employee();
+
+        Employee emp2 = new Employee("Mohini","Gupta", 24, "Manager");
+
+        emp1.setFirstName("Sarika");
+        emp1.setLastName("Sharma");
+        emp1.setAge(23);
+        emp1.setDesignation("SET");
+
+        System.out.println(emp1);
+        System.out.println(emp2);
+
+    }
+}
