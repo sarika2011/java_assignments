@@ -1,11 +1,11 @@
 package testExeercise;
 /*Q1) Write a class with FirstName, LastName & age field. Print Firstname, LastName & age using static block, static method & static variable respectively.*/
 public class empdetails{
-	
+	        static String FirstName1 ="Mohit";
+	    	static String LastName1 ="Singh";
+	    	static int age1= 15;	
 	    	static {
-	    	String FirstName1 ="Mohit";
-	    	String LastName1 ="Singh";
-	    	int age1= 15;	
+	    	
 	    	System.out.println("First name is" + "" + FirstName1);
 	        System.out.println("Last name is"  + "" + LastName1);  
 	        System.out.println("Age is" +"" + age1);  
